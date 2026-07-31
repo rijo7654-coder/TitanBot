@@ -20,7 +20,7 @@ YOUR_LTC_WALLET_ADDRESS`
     });
 
     // Optional: Add your QR image
-    embed.setImage("https://cdn.discordapp.com/attachments/1528442638183825570/1531826428595933285/share_image5751427697687835933.gif?ex=6a6aa008&is=6a694e88&hm=274a77fc662d10486d17a440837f414e71f0fe7e8cf22e353cd772450f88609f");
+    embed.setImage("https://cdn.discordapp.com/attachments/1528442638183825570/1532567165583102054/IMG_20260731_072428.jpg?ex=6a6d51e5&is=6a6c0065&hm=0d9353c5897c9defaac00e900e3217bd5e28a185244253d184bef0ddc8e9dfe9&");
 
     await InteractionHelper.safeReply(interaction, {
       embeds: [embed],
